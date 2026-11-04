@@ -4,4 +4,3 @@ A simple car delivery management application.
 View available cars
 Request car delivery
 Track delivery status
-```
